@@ -9,6 +9,7 @@ import Root from './Root/Root';
 import Home from './pages/Home/Home';
 import Donation from './pages/Donation/Donation';
 import Statistics from './pages/Statistics/Statistics';
+import Card from './components/Card/Card';
 
 const router = createBrowserRouter([
   {
@@ -28,6 +29,11 @@ const router = createBrowserRouter([
       {
         path:"/statistics",
         element: <Statistics></Statistics>
+      },
+      {
+        path:"/cards/:id",
+        element: <Card></Card>,
+        loader: () => fetch('/cardsData.json')
       }
     ]
   },
