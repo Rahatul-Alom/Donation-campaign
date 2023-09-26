@@ -1,0 +1,136 @@
+ [
+      {
+        "id":"1",
+        "picture": "https://i.ibb.co/1q4ccty/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0052ff26",
+        "card_bg": "#0052ff26",
+        "text_button_bg": "#0052FF",
+        "description": "Clean water is a cornerstone of good health, with its significance extending far beyond mere thirst-quenching. Hydration, facilitated by clean water, is fundamental to our well-being, supporting vital bodily functions like digestion, circulation, and temperature regulation. Equally critical is the prevention of waterborne diseases. Clean water serves as a shield against dangerous microorganisms and parasites that can wreak havoc on our health.",
+        "price": "$290.00"
+      },
+      {
+        "id":"2",
+        "picture": "https://i.ibb.co/BGJYBMd/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#ff444a33",
+        "card_bg": "#f2dede",
+        "text_button_bg": "#d9534f",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "$290.00"
+      },
+      {
+        "id":"3",
+        "picture": "https://i.ibb.co/9tx7g1X/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79c23f33",
+        "card_bg": "#79c23f26",
+        "text_button_bg": "#79C23F",
+        "description": "A Used Clothing Drive holds profound significance, embodying both compassion and environmental responsibility. At its core, this initiative is a beacon of charitable giving, channeling the generosity of individuals towards those in need. Donated garments become more than fabric; they become instruments of hope and comfort for disadvantaged communities, including the homeless, refugees, and families facing financial hardships.",
+        "price": "$290.00"
+      },
+      {
+        "id":"4",
+        "picture": "https://i.ibb.co/F87V8N6/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#f8714733",
+        "card_bg": "#f8714726",
+        "text_button_bg": "#F87147",
+        "description": "The significance of providing better food for everyone transcends mere sustenance; it stands as a cornerstone of well-being, public health, and environmental stewardship. At its core, better food represents a commitment to nourishing individuals with the essential nutrients needed for a vibrant and healthy life, guarding against malnutrition, and combating diet-related health crises that afflict societies worldwide.",
+        "price": "$290.00"
+      },
+      {
+        "id":"5",
+        "picture": "https://i.ibb.co/F87V8N6/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#f8714733",
+        "card_bg": "#f8714726",
+        "text_button_bg": "#F87147",
+        "description": "The significance of providing better food for everyone transcends mere sustenance; it stands as a cornerstone of well-being, public health, and environmental stewardship. At its core, better food represents a commitment to nourishing individuals with the essential nutrients needed for a vibrant and healthy life, guarding against malnutrition, and combating diet-related health crises that afflict societies worldwide.",
+        "price": "$290.00"
+      },
+      {
+        "id":"6",
+        "picture": "https://i.ibb.co/9tx7g1X/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79c23f33",
+        "card_bg": "#79c23f26",
+        "text_button_bg": "#79C23F",
+        "description": "A Used Clothing Drive holds profound significance, embodying both compassion and environmental responsibility. At its core, this initiative is a beacon of charitable giving, channeling the generosity of individuals towards those in need. Donated garments become more than fabric; they become instruments of hope and comfort for disadvantaged communities, including the homeless, refugees, and families facing financial hardships.",
+        "price": "$290.00"
+      },
+      {
+        "id":"7",
+        "picture": "https://i.ibb.co/BGJYBMd/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#ff444a33",
+        "card_bg": "#f2dede",
+        "text_button_bg": "#d9534f",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "$290.00"
+      },
+      {
+        "id":"8",
+        "picture": "https://i.ibb.co/1q4ccty/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0052ff26",
+        "card_bg": "#0052ff26",
+        "text_button_bg": "#0052FF",
+        "description": "Clean water is a cornerstone of good health, with its significance extending far beyond mere thirst-quenching. Hydration, facilitated by clean water, is fundamental to our well-being, supporting vital bodily functions like digestion, circulation, and temperature regulation. Equally critical is the prevention of waterborne diseases. Clean water serves as a shield against dangerous microorganisms and parasites that can wreak havoc on our health.",
+        "price": "$290.00"
+      },
+      {
+        "id":"9",
+        "picture": "https://i.ibb.co/1q4ccty/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#0052ff26",
+        "card_bg": "#0052ff26",
+        "text_button_bg": "#0052FF",
+        "description": "Clean water is a cornerstone of good health, with its significance extending far beyond mere thirst-quenching. Hydration, facilitated by clean water, is fundamental to our well-being, supporting vital bodily functions like digestion, circulation, and temperature regulation. Equally critical is the prevention of waterborne diseases. Clean water serves as a shield against dangerous microorganisms and parasites that can wreak havoc on our health.",
+        "price": "$290.00"
+      },
+      {
+        "id":"10",
+        "picture": "https://i.ibb.co/BGJYBMd/Education.png",
+        "title": "Good education",
+        "category": "Education",
+        "category_bg": "#ff444a33",
+        "card_bg": "#f2dede",
+        "text_button_bg": "#d9534f",
+        "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+        "price": "$290.00"
+      },
+      {
+        "id":"11",
+        "picture": "https://i.ibb.co/9tx7g1X/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#79c23f33",
+        "card_bg": "#79c23f26",
+        "text_button_bg": "#79C23F",
+        "description": "A Used Clothing Drive holds profound significance, embodying both compassion and environmental responsibility. At its core, this initiative is a beacon of charitable giving, channeling the generosity of individuals towards those in need. Donated garments become more than fabric; they become instruments of hope and comfort for disadvantaged communities, including the homeless, refugees, and families facing financial hardships.",
+        "price": "$290.00"
+      },
+      {
+        "id":"12",
+        "picture": "https://i.ibb.co/F87V8N6/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#f8714733",
+        "card_bg": "#f8714726",
+        "text_button_bg": "#F87147",
+        "description": "The significance of providing better food for everyone transcends mere sustenance; it stands as a cornerstone of well-being, public health, and environmental stewardship. At its core, better food represents a commitment to nourishing individuals with the essential nutrients needed for a vibrant and healthy life, guarding against malnutrition, and combating diet-related health crises that afflict societies worldwide.",
+        "price": "$290.00"
+      }
+    ]
+
+  
