@@ -2,9 +2,11 @@ import { PieChart, Pie, Cell, ResponsiveContainer, Legend } from 'recharts';
 const PieChartPage = ({donations ,totalDonation}) => {
 
     const data = [
-        { name: 'Total Donation', value: totalDonation.length},
-        { name: 'Your Donation', value: donations.length},
+        { name: 'Total Donation', value: totalDonation},
+        { name: 'Your Donation', value: donations},
       ];
+      
+     
       
   const COLORS = ['#FF444A', '#00C49F', '#FFBB28', '#FF8042'];
 
@@ -42,7 +44,6 @@ const PieChartPage = ({donations ,totalDonation}) => {
       <PieChart  width={500} height={500}>
         <Pie
           data={data}
-
           labelLine={false}
           label={renderCustomizedLabel}
           outerRadius={190}
